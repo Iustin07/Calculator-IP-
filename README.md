@@ -1,1 +1,1 @@
-# Evaluator expresii matematice
+# Evaluator expresi matematice
