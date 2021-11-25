@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1579043311 source:f:\homework\new2\main.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+	<conio.h>
+	<windows.h>
+	<iomanip>
+
+1579043396 source:c:\users\asus\desktop\a4_evaluator_expresie_mat\proiect\main.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+	<conio.h>
+	<windows.h>
+	<iomanip>
+
